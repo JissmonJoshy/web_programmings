@@ -2,14 +2,17 @@ body{
 background-color:lightgrey;
 color:blue;
 }
+
 ol{
 background-color:black;
 color:white;
 }
+
 p{
-background-color:blue;
+background_color:blue;
 color:white;
 }
+
 table,th,td{
-border:2px solid black;
+border: 1px solid black;
 }
